@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+//hola
 int main() {
 	float N, L, suma, resta, producto, cociente;
 	N = 0, L = 0, suma = 0, resta = 0, producto = 0, cociente = 0;
