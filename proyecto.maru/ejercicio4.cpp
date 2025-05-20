@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream>
 using namespace std;
 
 int main() {
@@ -13,3 +13,4 @@ int main() {
 		cout << "La circunferencia del circulo es: " << C << endl; 
 		cout << "El area del circulo es: " << A << endl; 
 }
+*/
