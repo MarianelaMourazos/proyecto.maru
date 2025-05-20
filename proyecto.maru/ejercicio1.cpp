@@ -1,8 +1,7 @@
 #include <iostream>
 using namespace std;
 
-//hola
-int main() {
+/*int main() {
 	float N, L, suma, resta, producto, cociente;
 	N = 0, L = 0, suma = 0, resta = 0, producto = 0, cociente = 0;
 	cout << "Ingrese un numero cualquiera: ";
@@ -20,5 +19,4 @@ int main() {
 	cout << "  El producto es: " << producto;
 	cout << "  El cociente es: " << cociente;
 	return 0;
-}
-
+} */
