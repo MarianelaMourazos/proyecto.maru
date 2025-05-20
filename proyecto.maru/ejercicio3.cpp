@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream>
 using namespace std;
 
 int main() {
@@ -38,4 +38,5 @@ int main() {
 	cout << "El mayor es: " << mayor << endl;
 	cout << "El menor es: " << menor; 
 } 
+*/
  
