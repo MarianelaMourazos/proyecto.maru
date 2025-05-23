@@ -8,7 +8,7 @@ int main() {
     cin >> dia;
     cout << "Ingresa el mes: ";
     cin >> mes;
-    cout << "Ingresa el año (4 digitos): ";
+    cout << "Ingresa el anio (4 digitos): ";
     cin >> anio;
 
     // Precondiciones
@@ -21,7 +21,7 @@ int main() {
         return 1;
     }
     if (anio < 1000 || anio > 9999) {
-        cout << "Error: Año fuera de rango (1000-9999)." << endl;
+        cout << "Error: Anio fuera de rango (1000-9999)." << endl;
         return 1;
     }
 
