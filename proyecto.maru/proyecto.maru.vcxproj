@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ej9.cpp" />
     <ClCompile Include="ejercicio1.cpp" />
     <ClCompile Include="ejercicio2B.cpp" />
     <ClCompile Include="ejercicio2C.cpp" />
