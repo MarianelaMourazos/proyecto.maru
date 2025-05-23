@@ -11,7 +11,6 @@ int main() {
     cout << "Ingresa el anio (4 digitos): ";
     cin >> anio;
 
-    // Precondiciones
     if (dia < 1 || dia > 31) {
         cout << "Error: Dia fuera de rango (1-31)." << endl;
         return 1;
@@ -25,7 +24,6 @@ int main() {
         return 1;
     }
 
-    // Construcción manual del número AAAAMMDD
     int fecha = anio * 10000 + mes * 100 + dia;
 
     cout << "Fecha en formato AAAAMMDD: " << fecha << endl;
